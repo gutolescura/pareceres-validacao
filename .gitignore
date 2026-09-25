@@ -1,2 +1,7 @@
 .DS_Store
 Thumbs.db
+
+# material interno — nunca publicar (código dos agentes, nomes de clientes, credencial no código)
+workflows_atualizados/
+spec/
+INSTRUCOES-SITE-PARECERES.md
