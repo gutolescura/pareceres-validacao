@@ -1,32 +1,34 @@
-# Pareceres · Validação de Documentos
+# Pareceres · Análise da IA do GD4
 
-Catálogo dos critérios de **58 agentes de validação** de documentos: 31 do colaborador e
-27 do fornecedor. Cada painel mostra o que o agente confere, o que reprova, o que é só
-informativo e, quando existe, o que muda na versão customizada para uma construtora.
+Catálogo dos critérios que a **IA do GD4** usa para sugerir a aprovação ou a reprovação de
+**58 documentos**: 31 do colaborador e 27 do fornecedor. Cada documento segue o formato da
+janela "Análise da IA" do GD4: os critérios da análise, o critério e a orientação de cada item,
+o nome com que ele aparece no GD4 e, quando existe, o que muda na versão customizada de uma
+construtora.
 
 Página única e autocontida: CSS, script e a fonte Roboto ficam dentro do `index.html`.
 Não há arquivo externo, e a página abre igual em qualquer navegador, sem depender de rede.
 
 ## Grupos
 
-| grupo | agentes |
+| grupo | documentos |
 |---|---|
-| Colaborador · Documento único | 18 |
-| Colaborador · Treinamentos NR | 7 |
-| Colaborador · Fluxos unificados | 6 |
-| Fornecedor · Documento único | 17 |
-| Fornecedor · Folha e cruzamentos | 3 |
-| Fornecedor · Fluxos unificados e suas peças | 7 |
+| Colaborador · Documentos únicos | 11 |
+| Colaborador · Documentos com cruzamento | 6 |
+| Colaborador · Segurança do trabalho | 14 |
+| Fornecedor · Documentos únicos | 11 |
+| Fornecedor · Documentos com cruzamento | 11 |
+| Fornecedor · Segurança do trabalho | 5 |
 
-Além dos agentes, há quatro painéis de leitura: início com busca, como ler um parecer,
-erros técnicos e padrão × customizado.
+Além dos documentos, há três páginas de apoio: início com busca, como ler a análise da IA e
+mensagens de erro técnico.
 
 ## Como navegar
 
 - Barra no topo: índice, anterior, próximo e a lista de painéis.
 - Teclado: `←` e `→` trocam de painel; `Home` volta ao índice.
-- Link direto para um agente: `…/pareceres-validacao/#c01-aso`, por exemplo.
-- Impressão: cada painel sai numa página, com todas as versões customizadas.
+- Link direto para um documento: `…/pareceres-validacao/#c15-cartao-ponto`, por exemplo.
+- Impressão: cada documento sai numa página, com as regras completas e todas as versões customizadas abertas.
 
 ## Publicar no GitHub Pages
 
