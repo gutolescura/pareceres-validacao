@@ -1,7 +1,7 @@
 # Pareceres · Análise da IA do GD4
 
 Catálogo dos critérios que a **IA do GD4** usa para sugerir a aprovação ou a reprovação de
-**65 documentos**: 35 do colaborador e 30 do fornecedor. Cada documento segue o formato da
+**68 documentos**: 35 do colaborador e 33 do fornecedor. Cada documento segue o formato da
 janela "Análise da IA" do GD4: os critérios da análise, o critério e a orientação de cada item,
 o nome com que ele aparece no GD4 e, quando existe, o que muda na versão customizada de uma
 construtora.
@@ -17,7 +17,7 @@ Não há arquivo externo, e a página abre igual em qualquer navegador, sem depe
 | Colaborador · Documentos com cruzamento | 6 |
 | Colaborador · Segurança do trabalho | 15 |
 | Fornecedor · Documentos únicos | 12 |
-| Fornecedor · Documentos com cruzamento | 13 |
+| Fornecedor · Documentos com cruzamento | 16 |
 | Fornecedor · Segurança do trabalho | 5 |
 
 Além dos documentos, há três páginas de apoio: início com busca, como ler a análise da IA e
